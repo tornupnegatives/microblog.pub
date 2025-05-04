@@ -4,6 +4,7 @@ version = "2.0.0"
 description = ""
 authors = ["Thomas Sileo <t@a4.io>"]
 license = "AGPL-3.0"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
